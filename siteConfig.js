@@ -1,14 +1,14 @@
 const siteConfig = {
   name: 'Suey',
   shortName: 'Suey',
-  description: 'Clay - Personal Gatsby Theme',
+  description: "Suey's portfolio",
   url: '/', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Travis Lord & Abdul Waqar',
+  author: 'shaoyun99',
   twitter: '' ,
   facebook:'',
   github:'',
-  manifest_icon:`src/img/vase.png`,
+  manifest_icon:`src/img/logo-luna.png`,
   image:`/vase.png`
 
 }
